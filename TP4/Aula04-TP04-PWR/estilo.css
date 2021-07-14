@@ -1,0 +1,21 @@
+*{
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	background-color: grey;
+	color: blue;
+	font-style: italic;
+}
+p{
+	text-align: justify;
+}
+p2{
+	margin-left: 50px;
+	text-align: justify;
+}
+h1{
+	text-align: center;
+	color: black;
+}
+h2{
+	text-align: left;
+	color: green;
+}

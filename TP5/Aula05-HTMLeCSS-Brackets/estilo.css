@@ -1,0 +1,37 @@
+*{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+}
+body{
+	border-style: solid;
+	border-radius: 10px;
+}
+h1#titulo{
+	color: darkred;
+	text-align: center;
+	font-weight: bold;
+}
+h2{
+	text-align: center;
+}
+p#legenda{
+	color: grey;
+}
+a#vermelho{
+	color: darkred;
+}
+p#vermelho{
+	color: darkred;
+}
+a{
+	color: #008080;
+}
+p#link{
+	text-align: right;
+}
+p{
+	text-align: justify;
+}
+div{
+	padding: 10px;
+}

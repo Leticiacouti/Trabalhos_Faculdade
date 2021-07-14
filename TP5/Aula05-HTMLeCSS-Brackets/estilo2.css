@@ -1,0 +1,24 @@
+*{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16px;
+}
+body{
+	border-style: solid;
+	border-radius: 10px;
+}
+p#textodireita{
+	text-align: right;
+}
+
+h1#vermelho{
+	color: darkred;
+}
+h1{
+	color: #246B61;
+}
+a{
+	color: #008080;
+}
+div{
+	padding: 10px;
+}
